@@ -1,2 +1,2 @@
-# Reacto-todo
-Created with CodeSandbox
+# React-todo
+Todoアプリです
